@@ -14,3 +14,6 @@ export const Body = styled.tbody`
   text-align: center;
   background-color: #deb887;
 `;
+export const TRow = styled.tr`
+  height: 35px;
+`;
